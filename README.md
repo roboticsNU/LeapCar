@@ -19,4 +19,8 @@
 - Open hand directed left - car moves left
 - Open hand directed right - car moves right
 
-### Video of early demo: https://youtu.be/iA-m8YhTgC8
+### Demo
+https://youtu.be/iA-m8YhTgC8
+
+### Contributors
+Yelenov Amir, Zaida Makisheva, Duman Iklasov, Kontorbayev Almas, Dana Oshakbayeva
