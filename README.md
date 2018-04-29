@@ -18,3 +18,5 @@
 - Open hand with pitch of -30 degree or more - car moves backward
 - Open hand directed left - car moves left
 - Open hand directed right - car moves right
+
+### Video of early demo: https://youtu.be/iA-m8YhTgC8
