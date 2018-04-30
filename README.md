@@ -23,4 +23,4 @@
 https://youtu.be/iA-m8YhTgC8
 
 ### Contributors
-Yelenov Amir, Zaida Makisheva, Duman Iklasov, Kontorbayev Almas, Dana Oshakbayeva
+Yelenov Amir
